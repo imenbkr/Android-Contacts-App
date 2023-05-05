@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeWork</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="edit_contact">Delete Contact</string>
+    <string name="add_contact">Add new contact</string>
+    <string name="enter_name">Enter contact name</string>
+    <string name="enter_number">Enter contact number </string>
+    <string name="save_contact">Save contact</string>
+
+
+</resources>
