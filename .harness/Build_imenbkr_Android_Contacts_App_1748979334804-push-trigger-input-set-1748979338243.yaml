@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_imenbkr_Android_Contacts_App_1748979334804-push-trigger-input-set
+  identifier: Build_imenbkr_Android_Contacts_App_1748979334804pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_imenbkr_Android_Contacts_App_1748979334804
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>
